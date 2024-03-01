@@ -1,0 +1,1 @@
+I successfully executed a comprehensive SQL project centered around the analysis of IMDB Movies data. Leveraging my expertise in database design and SQL query optimization, I designed and implemented a relational database with multiple tables to store and manage intricate details about movies, including actors, directors, genres, and user ratings.
